@@ -1,0 +1,21 @@
+{
+  "name": "lifeos",
+  "version": "1.0.0",
+  "description": "LifeOS - Futuristic AI-Powered Personal Productivity and Study Platform",
+  "private": true,
+  "scripts": {
+    "dev": "npm --prefix frontend run dev",
+    "build": "npm --prefix frontend run build",
+    "preview": "npm --prefix frontend run preview"
+  },
+  "keywords": [
+    "lifeos",
+    "jarvis",
+    "productivity",
+    "study-planner",
+    "knowledge-vault",
+    "nature-ambience"
+  ],
+  "author": "LifeOS",
+  "license": "MIT"
+}
